@@ -1,0 +1,1 @@
+Le doc04.txt contient des commits sur des modifications sur les docs 01 à 03 ; le doc06.txt contient des modifs sur les docs 04 à 06.
