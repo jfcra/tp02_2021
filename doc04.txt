@@ -1,0 +1,31 @@
+commit 7a34c441cc34fbf8a89e5e1a3286d51f425f0b38 (HEAD -> travail)
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Mon Jan 11 23:51:57 2021 +0100
+
+    Creation du doc04
+
+commit 0ba591a6f6d2b5c864d3862c7c50052a6aa200e0
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Mon Jan 11 23:51:09 2021 +0100
+
+    Modification du doc03 et ajout du contenu de git status
+
+commit 2df3c8958d492045d90113c47b381f599eac4557
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Mon Jan 11 23:49:29 2021 +0100
+
+    Creation du doc03
+
+commit a3e7063932eb9437d241c7d1aa986f17a61a9101
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Mon Jan 11 23:48:56 2021 +0100
+
+    Creation du doc02 et ajout de texte sur toto ne le 1er avril
+
+commit fed8f3e0263d0fd528b400ccf47cbe10158b403d
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Mon Jan 11 23:31:58 2021 +0100
+
+    Modification du doc01 avec ajout de Bonjour et de la signature
+
+
