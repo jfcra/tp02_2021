@@ -1,0 +1,26 @@
+
+commit 6aa3d264d5a340ec4234fb10a573904b8bd6f993 (HEAD -> main)
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Tue Jan 12 16:58:09 2021 +0100
+
+    Ajout du git status a doc05
+
+commit a8558271b89246087b00263d618ab211fc7e158f
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Tue Jan 12 16:55:43 2021 +0100
+
+    Creation du doc05
+
+commit 12762f733a1bd234f468d6783147b1288eb930c9 (travail)
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Mon Jan 11 23:58:32 2021 +0100
+
+    Modification du doc04 avec ajout du contenu de git log
+
+commit 7a34c441cc34fbf8a89e5e1a3286d51f425f0b38
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Mon Jan 11 23:51:57 2021 +0100
+
+    Creation du doc04
+
+
